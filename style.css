@@ -1,0 +1,11 @@
+/* style.css */
+body {
+  margin: 0;
+  background: black;
+  display: flex;
+  justify-content: center;
+}
+canvas {
+  background: #333;
+  border: 2px solid white;
+}
